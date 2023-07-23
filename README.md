@@ -4,18 +4,19 @@
 I am a data analyst with a strong knowledge of AI/ML, passionate about uncovering valuable insights from data and utilizing them to drive informed decision-making.
 
 - 🔭 I’m currently learning Big Data Analytics and Cloud Computing.
-- 🌱 I’m currently works with Python, SQL, PowerBI, Tableau, R, etc.
+- 🌱 I’m currently working with Python, SQL, PowerBI, Tableau, R, etc.
 - 💬 Ask me about **Data Analytics, Algorithmic Trading, Machine Learning algorithms, Convolutional Neural Networks and Data mining**
 
 ## Skills
-- Data analysis
+- Big Data
 - Machine Learning
 - Convolutional Neural Networks
-- Artificial Intelligence
 - Python
+- Database Design
 - SQL
-- Data visualization
-- Statistical analysis
+- NoSQL
+- Data Visualization
+- Statistical Analysis
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
